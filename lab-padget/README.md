@@ -2,7 +2,9 @@
 
 ## Description
 For this lab we connected our frontend angular app to a pre-built backend called slugram, added client side authentication, and provided minimal styling from basic wireframes.
-[Lab 27](https://github.com/mmpadget/27-angular-auth)
+
+* [Class 27](https://github.com/codefellows/seattle-javascript-401d15/tree/master/class-27-angular-auth)
+* [Lab 27](https://github.com/mmpadget/27-angular-auth)
 
 ## Version
 * 0.1.0

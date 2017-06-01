@@ -5,7 +5,7 @@ require('angular-mocks');
 
 describe('testing controller', function(){
   beforeEach(() => {
-    angular.mock.module('routesApp');
+    angular.mock.module('cfgram');
   });
 
   afterEach(() => this.$rootScope.$apply());

@@ -33,7 +33,7 @@ npm init
 npm i -S @uirouter/angularjs angular babel-core babel-loader babel-preset-es2015 camelcase clean-webpack-plugin css-loader dotenv extract-text-webpack-plugin file-loader html-loader html-webpack-plugin node-sass pascalcase resolve-url-loader sass-loader style-loader url-loader webpack
 ```
 ```
-npm i -D webpack-dev-server angular-mocks jasmine jasmine-core karma karma-chrome-launcher karma-jasmine karma-mocha-reporter karma-webpack mocha webpack-dev-server
+npm i -D webpack-dev-server angular-mocks jasmine jasmine-core karma karma-chrome-launcher karma-jasmine karma-mocha-reporter karma-webpack webpack-dev-server
 ```
 
 Add the following to package.json:

@@ -11,6 +11,10 @@ $font-fam-2: monospace;
 
 // global styles
 
+html, body {
+  width: 90%;
+}
+
 body {
   font-size: $font-size;
   font-family: $font-fam-1;

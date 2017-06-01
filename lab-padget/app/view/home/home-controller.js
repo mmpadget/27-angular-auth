@@ -1,7 +1,11 @@
 'use strict';
 
-module.exports = ['$log', function($log) {
-  $log.debug('HomeController');
+require('./_home.scss');
+
+module.exports = ['$log', HomeController];
+
+function HomeController($log) {
+  $log.debug('HomeController()');
   this.title = 'Home';
-  this.subTitle = 'Welcome to home';
-}];
+  this.subTitle = 'Welcome to the home page';
+}

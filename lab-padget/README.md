@@ -81,7 +81,6 @@ The result of installation above.
   "karma-jasmine": "^1.1.0",
   "karma-mocha-reporter": "^2.2.3",
   "karma-webpack": "^2.0.3",
-  "mocha": "^3.4.2",
   "webpack-dev-server": "^2.4.5"
 }
 ```
@@ -111,7 +110,6 @@ Result: "connecting to: mongodb://127.0.0.1:27017"
 ## API
 * POST: `http://localhost:3000/api/signup`
 * GET: `http://localhost:3000/api/login`
-
 
 ## Test Setup
 ```
@@ -164,7 +162,7 @@ config.set({
 In [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) (Terminal) enter the command:
 
 In Terminal enter `npm run test`
-Result: "karma start --single-run", "Connected on socket", "✔ 0 tests completed"
+Result: "karma start --single-run", "Connected on socket", "0 tests completed"
 
 In Terminal enter `npm run build-watch`
 Result: "Project is running at http://localhost:8080/", "webpack: Compiled successfully."

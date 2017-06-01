@@ -7,7 +7,7 @@ For this lab we connected our frontend angular app to a pre-built backend called
 * [Lab 27](https://github.com/mmpadget/27-angular-auth)
 
 ## Version
-* 0.1.0
+* 0.1.1
 
 ## Installation
 Please visit the following pages for how to install your project locally.

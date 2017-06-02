@@ -1,8 +1,5 @@
 'use strict';
 
-let __API_URL__;
-// to satisfy the linter
-
 module.exports = [
   '$q',
   '$log',
